@@ -14,5 +14,3 @@ The brand kit includes:
 - Templates
 
 All brand assets and design elements are proprietary and owned by Rocky. Unauthorized use or distribution is prohibited.
-
-test
